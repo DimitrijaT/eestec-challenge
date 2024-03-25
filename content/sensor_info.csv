@@ -1,0 +1,163 @@
+SensorId,Type,Position,Description,Comments,Status
+007f2b03-94e6-47b3-9e3e-44273354acd5,3,"42.055622821657266,21.305010875644516",Kuchkovo,pulse.eco WiFi v2 sensor located at Kuchkovo,ACTIVE
+01440b05-255d-4764-be87-bdf135f32289,2,"42.027618975073544,21.38741970062256",Bardovci,v1 wifi sensor at Bardovci.,ACTIVE
+01cf1cec-bf2d-41b3-8cd5-e8bd720f01b4,3,"41.993498532663594,21.44513139126384",Madjir Maalo,Madjir Maalo,ACTIVE
+07b58ccf-7faa-4f0a-a10a-e7b485d52ffe,3,"42.07304708420296,21.449465096155702",Radisani,Posledna 57,ACTIVE
+0a058579-12c9-47be-971b-607198002d3b,3,"41.993971648184434,21.426850013684437",Centar-Beko,,ACTIVE
+0c33bee5-1139-472a-aef7-6d855bc5010d,3,"41.980722,21.439444",Pelagonija,pulse.eco Wi-Fi v2. sensor at Pelagonija,NOT_CLAIMED
+0e543e25-8bc3-4ce8-adbe-998e0d90e019,3,"41.996499768834724,21.42166167722742",Pestaloci,Towards Kindergarten 13 November,ACTIVE
+0f10deea-03bc-4a47-ae87-85442140467c,3,"41.99918898022106,21.416060439743106","Univerzalna Sala, Skopje",,ACTIVE
+1000,0,"41.99249998,21.4236110",MOEPP Centar,MOEPP sensor at Centar,ACTIVE
+1001,0,"41.9783,21.47",MOEPP Lisice,MOEPP sensor at Lisice,ACTIVE
+1002,0,"41.9875,21.6525",MOEPP Miladinovci,MOEPP sensor at Miladinovci,ACTIVE
+1003,0,"42.00666664,21.38694446",MOEPP Karpos,MOEPP sensor at Karpos 4,ACTIVE
+1004,0,"42.0036,21.4636",MOEPP Gazibaba,MOEPP sensor at Gazibaba,ACTIVE
+1005,0,"41.9992,21.4408",MOEPP Rektorat,MOEPP sensor at Rektorat,ACTIVE
+10968604-7c7a-4c7b-82a1-937793ac214f,3,"42.00433891483407,21.411976047932182",Karpos1 Sensor,Senzorot e lociran karsi OU Hristijan Todorovski Karpos,ACTIVE
+11888f3a-bc5e-4a0c-9f27-702984decedf,3,"41.995828195848325,21.484215259552002",MZT,V2 wifi sensor in MZT area,ACTIVE
+1286fb13-a4de-44cd-a390-4117fcddf1a9,3,"42.00456526869432,21.370220684203826",Hrom - Gradinka,DIY WiFI v2 device near Gradinka at Hrom,ACTIVE
+12bea5d2-b3a0-4c69-b970-80c3a9d0cc0b,3,"42.00413322318752,21.396332864215236",Leptokarija,"pulse.eco WiFi v2 sensor located at Skopje, Karposh 3",ACTIVE
+1587b09d-d0b0-4f46-b05e-d2fb93fc7863,3,"41.997162962969476,21.385660449563975",Replek,pulse.eco WiFi v2 sensor located near Replek - Kozle,ACTIVE
+1a2af884-336b-427d-9b37-fe332557539f,4,"42.00788313967865,21.39364242553711",ProKredit banka,LoRaWAN sensor near ProCredit bank at Bul. Ilinden,ACTIVE
+1f5c7035-6c1f-45ee-97f4-0a292b49710a,3,"41.98813818917937,21.47670132206032",Aerodrom Park,"The device is on a balcony, on a 4th floor overseeing the park ""Airport"" and the FFM football fields. No AC/Ventilation system can interfere with it. ",ACTIVE
+1f966a58-fa92-4f41-b87c-786d4db58a74,3,"42.09997882921543,21.392986068070893",Sandevo,,REQUESTED
+1fc02db8-38d2-4bb5-a2cb-a72f357d0e51,3,"41.995125019964284,21.432309416498622",Ploshtad,,ACTIVE
+200cdb67-8dc5-4dcf-ac62-748db636e04e,2,"41.97515527046036,21.456478536128998",11ti Oktomvri,"v1 wifi sensor at 11ti Oktomvri, Baraki, Kisela voda",ACTIVE
+24eaebc2-ca62-49ff-8b22-880bc131b69f,3,"41.979767336029425,21.433950662612915",Crniche,V1 WiFi sensor in Crniche.,ACTIVE
+2c275060-799f-46c9-a2eb-fc613c4b4ff6,3,"42.00107311457205,21.42767496688523",Pvlada,Parking kaj vlada,ACTIVE
+2d77519e-8c61-4d8e-87a6-d15126ea80c3,3,"42.10024520817092,21.392482537825437",Sandevo,SkopjePulse WiFi sensor node v2,REQUESTED
+35bdd494-5395-4ac5-b7b9-05b82c9b6acd,3,"41.98390993402405,21.451233146520536",Ramstore Star Aerodrom,DIY WiFi v2 sensor near Ramstore Star Aerodrom,ACTIVE
+3791738b-bec6-452e-9aae-5b11a899bfe2,3,"42.004804509388094,21.35350669037686",Hristo Batandziev,,ACTIVE
+3cc58200-8928-45b2-9a58-f6c862ec99db,3,"41.97799406601553,21.438544653713972",Kisela Voda,,ACTIVE_UNCONFIRMED
+3d5e32fb-3c41-427f-b6ef-ed19e84026dd,3,"42.001388942078236,21.410187456009414",Simpo,"Simpo, Karposh 1, on Partizanski Odredi",ACTIVE
+3d7bd712-24a9-482c-b387-a8168b12d3f4,2,"42.029938091462924,21.446449756622314",Butel 1,V1 WiFi Sensor at Butel 1,ACTIVE
+3e2465de-c2c2-4473-9c62-7113265debd9,3,"42.06232365614429,21.448080907397287",Radishani-cleanbreath,Rabotilnica1,ACTIVE
+3f9a8bfd-d15a-4b2a-8516-81260c25416e,3,"41.97797013923417,21.371333908484264",Gorno Nerezi,"Gorno Nerezi, near monastery Pantelejmon",ACTIVE
+43e14568-aa62-4b85-af71-490a3f87b2c3,3,"41.978470787144936,21.474353031054306",Device in Aerodrom Skopje,,REQUESTED
+4f4aa1df-d0c1-4aed-8fc9-7499d40a7cb1,3,"42.0038635839722,21.36196168551432",GjorcheUred,Near Gjorche Petrov park,ACTIVE
+52546b6e-77bf-40f8-b0e5-6e54d7947e9f,3,"42.01500829536938,21.431869283922524",Chair - Topansko pole,DIY WiFi v2 device at Chair,ACTIVE
+5346db83-fbf0-48c4-8714-1d896ca2f5e8,3,"42.09791857485759,21.39292383170651",Sandevo sensor,,ACTIVE
+59c15198-7ba8-45af-aac4-5b3d1560fd81,3,"42.033929104624065,21.4095544567309",Vizbegovo,pulse.eco WiFi v2 sensor located near the school at Vizbegovo,ACTIVE
+5de2a490-05f1-4f33-927e-a7e6f5664b72,3,"41.999524662697816,21.496051878253393",Madzari,House around bakery Dezo,ACTIVE
+5e8e87e4-dd6d-4fe9-bd41-964b8f74607b,3,"41.93114090964634,21.495534810708772",Doma24 Store,DIY WiFi2 device facing the main street,ACTIVE
+5f718e32-5491-4c3c-98ff-45dc9e287df4,1,"41.98646649902601,21.422148942947388",Vodno,V1 LoRaWAN sensor near Vodno,ACTIVE
+60aa65c6-b7c4-4aae-8769-5dbcba356b5d,3,"42.00260380175356,21.461136149901503",Avtokomanda,pulse.eco WiFi v2 sensor located at Avtokomanda,ACTIVE
+6380c7cc-df23-4512-ad10-f2b363000579,2,"41.960415557926744,21.43481969833374",Sopishte,V1 WiFi sensor at Sopishte,ACTIVE
+657c2651-0b34-42dd-87d7-e4af7ee1f01d,3,"42.0026784761937,21.41464805833456",Revelapps,Locatio Office Revelapps,ACTIVE
+66710fdc-cdfc-4bbe-93a8-7e796fb8a88d,1,"41.995238146587674,21.402708292007443",Kozle,V1 WiFi sensor in Kozle,ACTIVE
+680b0098-7c4d-44cf-acb1-dc4031e93d34,2,"41.99554114553998,21.5870189666748",Ilinden,Wifi Sensor v1 at Ilinden,ACTIVE
+68538f26-664b-430b-a30e-162ad38c32b7,3,"41.98874591491684,21.451932847350726",TC Skopjanka,TC Skopjanka,ACTIVE
+6c6a9ef6-85f9-45c0-9e01-0c9d2fb87bc2,3,"41.98684580602853,21.46617687511082",Capitol Mall,DIY WiFi v2 sensor near Capitol Mall,ACTIVE
+756cc065-dc00-4558-9195-582c527de537,3,"41.93757034466266,21.617401059813652",Petrovec,pulse.eco WiFi v2 sensor located at Petrovec,ACTIVE
+768284ed-72be-4c18-b764-1f9de38b365f,3,"42.00749898337447,21.366037371793425",SP Planet,"Gjorce Petrov (SP Planet) round about, towards Gjorce Petrov",ACTIVE
+7903d37a-a533-49ed-9348-93cd396fe034,3,"42.00443139622528,21.408206304952124",Lab ekoinformatika finki,Laboratorija ekoinformatika finki,ACTIVE
+7c497bfd-36b6-4eed-9172-37fd70f17c48,3,"42.01313055226713,21.45875573158264",Zhelezara,V1 WiFi sensor at Zhelezara.,ACTIVE
+7e78f939-b68e-4294-ab57-8fd607ecd050,3,"42.11102052940963,21.44219077861561",Pobozje Turcevska Reka,JanMar,ACTIVE
+8522a938-db75-4f43-ab3d-450306690e30,3,"42.004844,21.401351",Karpos3,pulse.eco Wi-Fi v2. sensor at Karpos3,ACTIVE
+8565090e-aa71-445a-ad60-973d96b97e0d,3,"41.948683572469534,21.535782917987717",Dolno Lisice,pulse.eco WiFi v2 sensor located at Dolno Lisice,INACTIVE
+8a855889-8853-4777-a0e4-107cf78ab550,3,"41.98313146067192,21.43476663670465",Shampionche,,ACTIVE
+8ad9e315-0e23-4dc0-a26f-ba5a17d4d7ed,1,"41.987726,21.456481",Aerodrom,V1 LoRaWAN sensor at Aerodrom,ACTIVE
+8c5db228-0f2c-4bb5-9141-ac8b5e7f6c8a,3,"41.998505774639284,21.42481055593436",Soboren Hram,Between Soboren Hram and Bunjakovec Bazaar towards City Mall,ACTIVE
+8d415fa0-77dc-4cb3-8460-a9159800917f,1,"41.99732721531279,21.39289140701294",SD Goce Delchev,V1 LoRaWAN sensor near SD Goce Delchev,ACTIVE
+8defa36a-62ca-448a-9ffb-5a2848c2dfa0,3,"42.004552505090906,21.416377346204218",Zoo,pulse.eco WiFi v2 sensor located near Skopje ZOO,ACTIVE
+9416fbff-053b-495e-b6aa-6a338a43705b,3,"41.981194954859966,21.44599945018414",Mihail Chakov,pulse.eco WiFi v2 sensor located at Mihal Chakov street,NOT_CLAIMED
+a6097d36-4d83-4b51-a018-2eb6aa3c16a4,3,"41.976170957444516,21.464638382655988","Lisiche, sproti Krstot",1vi kat,ACTIVE
+a6f0822c-acc2-4245-b3a9-2151aa9e3299,3,"41.951142908592715,21.42288165134798",Sopishte Pod Opshtinata,,ACTIVE
+a9cbde66-7bbc-4db0-98a9-7e620de1eb4c,3,"41.981294049462726,21.446280162485024",Mihail Cakov no.9,,ACTIVE
+aad56180-edb5-442d-be63-b8b5f453a56d,3,"42.00756026916607,21.37092458745799",Porta Vlae,pulse.eco Wi-Fi v2. sensor at Porta Vlae,ACTIVE
+b17885fb-df39-477c-ba24-627edccb3c70,3,"41.95402502947285,21.486008005107053",Pintija - Sasa,DIY WiFi v2 device at st. Sasa - Pintija,ACTIVE
+b75c36b9-b12e-4caf-88d5-31a13434ae83,4,"42.002672366708964,21.407971496471188",Test for ttn v2,Yada yada,REQUESTED
+b79604bb-0bea-454f-a474-849156e418ea,2,"41.934689175939155,21.527361273765564",Drachevo,v1 sensor at Drachevo,ACTIVE
+b7a2cc4f-f63f-464f-9db4-1cb8955be2fa,3,"42.0069378418451,21.38949046062731",K4-Citymall,,ACTIVE_UNCONFIRMED
+b80e5cd2-76cb-40bf-b784-2a0a312e6264,2,"42.00817013431416,21.360527873039242",Gjorche Stanica,v1 wifi sensor at Gjorgje Petrov / Policiska Stanica,ACTIVE
+bb32cbe7-0391-463c-9716-d37930d1f567,3,"41.97936406779,21.489890339232836",Lisiche,"Karshi novo lisiche, karshi posledna 5ka stanica, od stranata na kukjite ",ACTIVE
+bb948861-3fd7-47dd-b986-cb13c9732725,2,"41.98370716725851,21.467853784561157",Biser,V1 WiFi Sensor near Biser Aerodrom,ACTIVE_UNCONFIRMED
+bc9f31ea-bf3d-416c-86b5-ecba6e98bb24,1,"42.00207919255764,21.423720717430115",Fontana,"V1 LoRaWAN  Sensor positioned near Fontana, Park.",ACTIVE
+c38dabe0-8631-4f1a-b3ed-4014dacce39c,3,"42.06043257365424,21.38831450039088",Stenkovec,pulse.eco WiFi v2 sensor located at Stenkovec,NOT_CLAIMED
+c6424b37-1d84-4ccf-831e-512f1bcf19a4,3,"41.982045,21.477023",Novo Lisice,pulse.eco Wi-Fi v2. sensor at Novo Lisice,ACTIVE
+cec29ba1-5414-4cf3-bbcc-8ce4db1da5d0,1,"42.003768,21.394638",Aluminka,V1 LoRaWAN Sensornode placed at Aluminka building in Karposh 3.,ACTIVE
+cf22ad10-aa16-4275-9d05-1830c16ec312,3,"42.000451388044574,21.390253022777493",pazar Taftalidze,towards Adora,ACTIVE
+cfb0a034-6e29-4803-be02-9215dcac17a8,2,"42.00844118361439,21.347208023071286",Gjorche,V1 WiFI sensor at GJorche,ACTIVE
+d077a9e2-7146-43b4-bce8-5926f560ee66,3,"41.96032078166045,21.433852549298248",Nad Teferic Restoranot,,ACTIVE
+d1023aea-a20b-4ecd-845c-645410aa0ce7,3,"42.04882220041037,21.355052383798114",Skopje Zoo,,REQUESTED
+d23d40cf-ea46-4791-99d5-ab0874246448,3,"41.99144106866676,21.42275119088699",Majka Tereza 5,,ACTIVE
+d36e7076-4935-4f2d-a544-590c22da1765,3,"41.97808977572849,21.438487442011436",Kisela Voda,,REQUESTED
+d46ddb51-9b1d-4590-b2ef-d3761d0898cc,3,"42.029850425889705,21.34326786835947",Volkovo,"Private property(house), toward Skorpion, Volkovo",ACTIVE
+e6658b42-ee46-4f48-ba49-7ab6eaa993c5,3,"42.00345229620948,21.417161729316206",Дебар маало,WiFi v2 sensor 57,ACTIVE
+e7a05c01-1d5c-479a-a5a5-419f28cebeef,1,"41.99752256365312,21.42431080341339",Izlet,V1 LoRaWAN Senzor vo blizina na Izlet,ACTIVE
+eaae3b5f-bd71-46f9-85d5-8d3a19c96322,1,"42.003309,21.408075",Karposh 2,V1 LoRaWAN sensor at Karposh 2,ACTIVE
+ec3d4365-75cb-4db8-97ee-2d98611eb46a,3,"41.98360299216671,21.436740013339076",Sampionche WiFi v2,Sampionche WiFi v2,ACTIVE
+ece5f5f1-a572-4b6d-b5ce-54080e6b5845,3,"41.99421302266008,21.402838605306403",Djumajska X Bratvorska,,ACTIVE
+ef8fbcf0-e04e-4d15-ab3c-a625a2f9245d,3,"41.17829079149606,20.67346365075873",Struga Gradski Pazar,DIY WiFi v2 sensor near Striga Market Place,ACTIVE_UNCONFIRMED
+f1b3d48c-c8ae-411e-9bd9-6ab057600709,3,"41.999495,21.425357",Intertec.io,Wi-Fi sensor node placed at Intertec.io building in Debar Maalo (Ulica na lipite),ACTIVE
+f2c2ae38-27f3-4b98-a3a2-afce870b164e,3,"41.94143946567824,21.520919411765377",Drachevo - Kuzman,pulse.eco WiFi sensor v2 near Drachevo - Kuzman,ACTIVE
+f3c9933e-0077-4408-8a0a-3392e91e1f23,3,"42.03178109607825,21.37988980083543",Bardovci,"Bardovci, ulica 4",ACTIVE
+f9a91b1f-a6cf-4484-90e4-e5df7a128625,3,"41.98284258321098,21.472823450282345",Novo Lisiche,KC sensor Novo Lisiche,ACTIVE
+f9e27604-2715-4ec3-ac6c-e3385e29590c,3,"42.0214996083633,21.446203234042805",Butel 2,Butel 2,ACTIVE
+fae7b464-9e42-4e2f-8201-9b2868c544af,3,"41.987585130440756,21.468077392527427",Capitol,DIY WiFi v2 device near the Shopping mall Capitol,ACTIVE
+fc4bfa77-f791-4f93-8c0c-62d8306c599c,2,"41.99737505577811,21.37639045715332",Nerezi,WiFi sensor v1 at Dolno Nerezi,ACTIVE
+fd1c46ae-c44e-47d3-b7b2-6e4d017f5f3d,3,"41.9369735689206,21.519521087165746",Park Drachevo,,REQUESTED
+fef6bc74-bf86-4874-9531-51b033580379,3,"42.001981658304395,21.388757372706504",Taftalidze 2,Blizu OU Bratstvo,ACTIVE
+ff22aa6c-4a38-4744-8500-f66b73e0b18a,3,"41.946083,21.392444",Sonje,pulse.eco wi-fi sensor v2 at Sonje,ACTIVE
+sensor_dev_10699_244,20004,"41.986,21.452",Sensor.community 10699,Imported Sensor.community #10699,NOT_CLAIMED_UNCONFIRMED
+sensor_dev_20701_157,20004,"41.978,21.476",Lisice (sensor.comm),Imported Sensor.community #20701,NOT_CLAIMED
+sensor_dev_34617_228,20004,"41.98898249066,21.46786719561",Sensor.community 34617,Imported Sensor.community #34617,NOT_CLAIMED_UNCONFIRMED
+sensor_dev_39544_399,20004,"41.99596990926,21.41833702226",Sensor.community 39544,Imported Sensor.community #39544,NOT_CLAIMED_UNCONFIRMED
+sensor_dev_39548_976,20004,"41.94484875825,21.40201767294",Sensor.community 39548,Imported Sensor.community #39548,NOT_CLAIMED
+sensor_dev_42668_227,20004,"42.028,21.388",Bardovci (sensor.comm),Imported Sensor.community #42668,NOT_CLAIMED
+sensor_dev_51158_685,20004,"41.97777738935,21.43859893084",Sensor.community 51158,Imported Sensor.community #51158,NOT_CLAIMED
+sensor_dev_52262_801,20004,"42.02384126414,21.43715590239",Sensor.community 52262,Imported Sensor.community #52262,NOT_CLAIMED
+sensor_dev_60237_141,20004,"42.03900255426,21.40771061182",Sensor.community 60237,Imported Sensor.community #60237,NOT_CLAIMED
+sensor_dev_61184_835,20004,"41.99924877905,21.40307843685",Sensor.community 61184,Imported Sensor.community #61184,NOT_CLAIMED
+sensor_dev_62788_603,20004,"42.016,21.454",Sensor.community 62788,Imported Sensor.community #62788,NOT_CLAIMED
+sensor_dev_64865_521,20004,"42.00217765684,21.40919923782",Sensor.community 64865,Imported Sensor.community #64865,NOT_CLAIMED
+sensor_dev_77125_71,20004,"41.98295490537,21.41867561881",Sensor.community 77125,Imported Sensor.community #77125,NOT_CLAIMED
+sensor_dev_77790_464,20004,"41.97025864138,21.45175285317",Sensor.community 77790,Imported Sensor.community #77790,NOT_CLAIMED
+sensor_dev_77844_828,20004,"41.96582251120,21.46189414663",Sensor.community 77844,Imported Sensor.community #77844,NOT_CLAIMED
+sensor_dev_77849_684,20004,"41.97079415832,21.45628361301",Sensor.community 77849,Imported Sensor.community #77849,NOT_CLAIMED
+sensor_dev_78017_881,20004,"41.95878108729,21.44822075978",Sensor.community 78017,Imported Sensor.community #78017,NOT_CLAIMED
+sensor_dev_78019_564,20004,"41.96177132211,21.46911518241",Sensor.community 78019,Imported Sensor.community #78019,NOT_CLAIMED
+sensor_dev_78021_396,20004,"41.96590943632,21.46568688186",Sensor.community 78021,Imported Sensor.community #78021,NOT_CLAIMED
+sensor_dev_78082_739,20004,"41.97333621977,21.47142618476",Sensor.community 78082,Imported Sensor.community #78082,NOT_CLAIMED
+sensor_dev_78110_618,20004,"41.96305895823,21.45005624334",Sensor.community 78110,Imported Sensor.community #78110,NOT_CLAIMED
+sensor_dev_78133_229,20004,"41.98693183788,21.41935944557",Sensor.community 78133,Imported Sensor.community #78133,NOT_CLAIMED
+sensor_dev_78164_619,20004,"42.01288767219,21.40875654761",Sensor.community 78164,Imported Sensor.community #78164,NOT_CLAIMED
+sensor_dev_78188_661,20004,"41.97042805477,21.46277764245",Sensor.community 78188,Imported Sensor.community #78188,NOT_CLAIMED
+sensor_dev_78308_493,20004,"42.022,21.356",Sensor.community 78308,Imported Sensor.community #78308,NOT_CLAIMED
+sensor_dev_78370_972,20004,"41.98998231179,21.42606867710",Sensor.community 78370,Imported Sensor.community #78370,NOT_CLAIMED
+sensor_dev_78374_316,20004,"41.97565836050,21.46962471306",Sensor.community 78374,Imported Sensor.community #78374,NOT_CLAIMED
+sensor_dev_78432_137,20004,"42.00228975559,21.41431045951",Sensor.community 78432,Imported Sensor.community #78432,NOT_CLAIMED
+sensor_dev_78456_119,20004,"41.99325809017,21.32285465486",Sensor.community 78456,Imported Sensor.community #78456,NOT_CLAIMED_UNCONFIRMED
+sensor_dev_78464_424,20004,"41.98213013003,21.30750521086",Sensor.community 78464,Imported Sensor.community #78464,NOT_CLAIMED
+sensor_dev_78662_610,20004,"42.02360504614,21.35250452673",Sensor.community 78662,Imported Sensor.community #78662,NOT_CLAIMED
+sensor_dev_78844_374,20004,"50.854,2.86",Sensor.community 78844,Imported Sensor.community #78844,NOT_CLAIMED
+sensor_dev_79190_458,20004,"42.05242626053,21.45026890794",Sensor.community 79190,Imported Sensor.community #79190,NOT_CLAIMED
+sensor_dev_79763_619,20004,"42.00291476025,21.46637159167",Sensor.community 79763,Imported Sensor.community #79763,NOT_CLAIMED
+sensor_dev_79765_769,20004,"42.01368973342,21.45984328352",Sensor.community 79765,Imported Sensor.community #79765,NOT_CLAIMED
+sensor_dev_79769_666,20004,"41.96446175889,21.55898388941",Sensor.community 79769,Imported Sensor.community #79769,NOT_CLAIMED
+sensor_dev_79771_603,20004,"41.99943596147,21.49967739824",Sensor.community 79771,Imported Sensor.community #79771,NOT_CLAIMED
+sensor_dev_79773_456,20004,"42.01211238031,21.51172508486",Sensor.community 79773,Imported Sensor.community #79773,NOT_CLAIMED
+sensor_dev_79775_326,20004,"42.02783785900,21.51336575858",Sensor.community 79775,Imported Sensor.community #79775,NOT_CLAIMED
+sensor_dev_79777_78,20004,"42.03412857400,21.54748840258",Sensor.community 79777,Imported Sensor.community #79777,NOT_CLAIMED
+sensor_dev_80193_378,20004,"42.072,21.504",Sensor.community 80193,Imported Sensor.community #80193,NOT_CLAIMED
+sensor_dev_80195_553,20004,"42.05,21.516",Sensor.community 80195,Imported Sensor.community #80195,NOT_CLAIMED
+sensor_dev_80225_313,20004,"42,21.452",Sensor.community 80225,Imported Sensor.community #80225,NOT_CLAIMED
+sensor_dev_81720_819,20004,"42.006,21.418",Sensor.community 81720,Imported Sensor.community #81720,NOT_CLAIMED
+sensor_dev_81853_15,20004,"42.00870696900,21.35066442657",Sensor.community 81853,Imported Sensor.community #81853,NOT_CLAIMED
+sensor_dev_81855_345,20004,"42.00823982748,21.33677707985",Sensor.community 81855,Imported Sensor.community #81855,NOT_CLAIMED
+sensor_dev_81880_63,20004,"42.00330562446,21.35794255883",Sensor.community 81880,Imported Sensor.community #81880,NOT_CLAIMED
+sensor_dev_81888_631,20004,"42.04261151282,21.34336181916",Sensor.community 81888,Imported Sensor.community #81888,NOT_CLAIMED
+sensor_dev_81942_280,20004,"42.00801776200,21.32771351840",Sensor.community 81942,Imported Sensor.community #81942,NOT_CLAIMED
+sensor_dev_81984_843,20004,"41.97996065090,21.43920672359",Sensor.community 81984,Imported Sensor.community #81984,NOT_CLAIMED
+sensor_dev_82681_781,20004,"42.00106426959,21.37393900193",Sensor.community 82681,Imported Sensor.community #82681,NOT_CLAIMED
+sensor_dev_82683_723,20004,"41.99098411078,21.42924217042",Sensor.community 82683,Imported Sensor.community #82683,NOT_CLAIMED
+sensor_dev_82685_644,20004,"41.99489643006,21.42603605054",Sensor.community 82685,Imported Sensor.community #82685,NOT_CLAIMED
+sensor_dev_82703_642,20004,"42,21.464",Sensor.community 82703,Imported Sensor.community #82703,NOT_CLAIMED
+sensor_dev_82707_917,20004,"41.97043288447,21.47968416117",Sensor.community 82707,Imported Sensor.community #82707,NOT_CLAIMED
+sensor_dev_82724_611,20004,"41.99650068462,21.45537849516",Sensor.community 82724,Imported Sensor.community #82724,NOT_CLAIMED
+sensor_dev_83224_195,20004,"41.98315052636,21.41806318425",Sensor.community 83224,Imported Sensor.community #83224,NOT_CLAIMED
+sensor_dev_83413_356,20004,"41.99078403882,21.40727592632",Sensor.community 83413,Imported Sensor.community #83413,NOT_CLAIMED
+sensor_dev_84687_383,20004,"42.04,21.322",Sensor.community 84687,Imported Sensor.community #84687,NOT_CLAIMED
+sensor_dev_84891_599,20004,"42.072,21.394",Sensor.community 84891,Imported Sensor.community #84891,NOT_CLAIMED
+sensor_dev_84941_208,20004,"42.00217598748,21.49814933538",Sensor.community 84941,Imported Sensor.community #84941,NOT_CLAIMED
+sensor_dev_8550_72,20004,"42,21.38",Vasil Cakalarov (Replek),Imported Sensor.community #8550,NOT_CLAIMED
