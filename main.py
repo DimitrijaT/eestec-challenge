@@ -61,7 +61,7 @@ def calculate_accuracy(forecast_df):
 
 def preprocess_data(data_r, type_s, from_date_arg, to_date_arg):
     df = data_r.copy()
-    type_s = type_s[2:].lower()
+    type_s = type_s.lower()
     df = df[df["Type"] == type_s]
     df['Stamp'] = pd.to_datetime(df['Stamp'], utc=True).dt.tz_convert(None)
     df = df[(df['Stamp'] >= from_date_arg) & (df['Stamp'] <= to_date_arg)]
@@ -133,14 +133,14 @@ if option is not None:
 
     daysToPredict = st.text_input("How many days to predict in the future?", value=30)
 
-    typeS = st.radio(
+    typeS_radio = st.radio(
         'Select a parameter',
-        ['💧 Humidity', '🦠 pm10', '😷 pm25', '🌡️ Temperature']
+        ['💧 Humidity', '🦠 pm10', '😷 pm25', '🌡️Temperature']
     )
 
-    toShow = typeS[2:]
+    typeS = typeS_radio[2:]
 
-    st.write("You selected: :rainbow[" + toShow + "]")
+    st.write("You selected: :rainbow[" + typeS + "]")
 
     # Button to trigger data preprocessing and training
     if st.button('Train'):
@@ -153,12 +153,10 @@ def plot_forecast(processed_data):
     if processed_data is not None:
         with st.spinner('Wait for it...'):
             m = Prophet()
-            # processed_data['cap'] = 500
             if typeS != 'temperature':
                 processed_data['floor'] = 0.0
             m.fit(processed_data)
             future = m.make_future_dataframe(periods=int(daysToPredict))
-            # future['cap'] = 1000
             if typeS != 'temperature':
                 future['floor'] = 0.0
             forecast = m.predict(future)
